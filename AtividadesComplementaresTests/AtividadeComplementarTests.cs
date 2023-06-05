@@ -3,7 +3,7 @@
 namespace AtividadesComplementaresTests
 {
     [TestClass]
-    public class AtividadeComplemententarTests
+    public class AtividadeComplementarTests
     {
         [TestMethod]
         public void Deve_Criar_AtividadeComplementar()
