@@ -1,7 +1,6 @@
 ﻿using AtividadeComplementares.Models;
-using Microsoft.Win32;
 
-namespace AtividadesComplementaresTests
+namespace AtividadesComplementaresTests.Models
 {
     [TestClass]
     public class RegistroTests

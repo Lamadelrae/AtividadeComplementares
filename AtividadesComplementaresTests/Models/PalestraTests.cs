@@ -1,6 +1,6 @@
 ﻿using AtividadeComplementares.Models;
 
-namespace AtividadesComplementaresTests
+namespace AtividadesComplementaresTests.Models
 {
     [TestClass]
     public class PalestraTests
