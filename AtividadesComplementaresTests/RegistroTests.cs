@@ -63,9 +63,9 @@ namespace AtividadesComplementaresTests
             //arrange
             var aluno = new Aluno("Matthew", "123@gmail.com");
             var atividadeComplementar = new AtividadeComplementar("Fundamentos SQL", DateTime.Now.AddDays(2), 2);
-            var registro = new Registro(aluno, atividadeComplementar);
 
             //act
+            var registro = new Registro(aluno, atividadeComplementar);
             var action = () => registro.RegistrarAtividadeComplementar();
 
             //assert
